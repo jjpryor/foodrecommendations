@@ -1,6 +1,4 @@
 # Food Recommendations
-Table of Contents
-=================
 * [NYC - Manhattan (mostly midtown)](#nyc---manhattan-mostly-midtown)
   * [Breakfast](#breakfast)
   * [Lunch/Dinner](#lunchdinner)
