@@ -33,7 +33,9 @@
 + Korean
   - Hanjan - 36 West 26th Street, New York, NY - next to Hill Country Barbeque. It is small-plates tapas-style Korean comfort food. Kinda pricy. But I always wanted to go here. Lunch-time and dinner-time only. They close between lunch and dinner.
   - Kang Ho Dong Baekjeong - 1 E 32nd St, New York, NY 10016 - high quality but kinda pricey table-grilled Korean BBQ
-  - 
+  - Kyochon Manhattan - 319 5th Ave, New York, NY 10016 - pricey for the small portion but Korean Fried Chicken is light and crispy and is very different than traditional American battered fried chicken.
+  - Hell's Chicken - 641 10th Ave, New York, NY 10036 - Hell's Kitchen area place for Korean Fried Chicken
+  - item
 
 + Food Trucks & Street Food
   - item
