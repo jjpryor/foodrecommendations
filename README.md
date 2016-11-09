@@ -1,5 +1,5 @@
 # foodrecommendations
-## NYC
+## NYC - Manhattan (mostly midtown)
 
 ### Breakfast
 + List of Bagel places: http://gothamist.com/2016/03/17/best_bagels_in_nyc.php
