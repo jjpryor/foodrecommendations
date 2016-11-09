@@ -1,4 +1,4 @@
-# foodrecommendations
+# Food Recommendations
 ## NYC - Manhattan (mostly midtown)
 
 ### Breakfast
