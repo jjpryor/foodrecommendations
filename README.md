@@ -16,8 +16,12 @@ The original location is in Madison Square Park (Madison Ave and 25th Str). On t
   - bar
   
 + BBQ
-  - foo
-  - bar
+  - Hill Country Barbeque - 30 West 26th Street, New York, NY 10010 - is within walking distance of MSG/Penn Station, and is a slice of TX picked up and dropped right into midtown.
+    - All meats are smoked in the central TX style. Nothing is slathered and dripping in sauce. Eating there is like eating at a butcher turned into a food court. You get a meal ticket and a tray and you order everything by the quarter pound, so if you want a lot, get a whole pound. If you just want to try it, get a quarter pound.
+    - Things to order: Moist (more fatty) brisket. Or the lean brisket. 2 types of sausage links which are shipped uncooked from TX. Cucumber salad. Green been casserole. Pork ribs are not the trimmed and glazed St Louis ribs but are the full size spare ribs. 1st floor and downstairs seating with frequent live music.
+  - Blue Smoke - 116 East 27th Street, New York, NY 10016 - A bit of a far walking distance from MSG / Penn Station (about 1 mile).
+    - It is a restraurant first and a barbecue restraurant second. They style is a normal sit-down restarurant with table-service down in an upscale look. Downstairs is also a live jazz club.
+    - Pork ribs, brisket, mac & cheese, beans. All the food is great & good  ambiance. They have other entrees that are not just smoked meats. They have their own pastry chef. 
 + Korean
   - foo
   - bar
