@@ -32,7 +32,8 @@
     - Brother Jimmy's BBQ
 + Korean
   - Hanjan - 36 West 26th Street, New York, NY - next to Hill Country Barbeque. It is small-plates tapas-style Korean comfort food. Kinda pricy. But I always wanted to go here. Lunch-time and dinner-time only. They close between lunch and dinner.
-  - item
+  - Kang Ho Dong Baekjeong - 1 E 32nd St, New York, NY 10016 - high quality but kinda pricey table-grilled Korean BBQ
+  - 
 
 + Food Trucks & Street Food
   - item
