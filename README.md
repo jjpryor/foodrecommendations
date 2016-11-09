@@ -11,9 +11,9 @@
   - Shakeshack started as an offshoot of Danny Meyer's Eleven Madison Park and originally served hotdogs from a cart.
 The original location is in Madison Square Park (Madison Ave and 25th Str). On the griddle, they smash the burger down to get maximum browning and thus maximum tastes. For burgers, order the Shackstack, a cheese burger topped with a battered & fried and cheese filled mushroom. Shakeshack has two lines for customer ordering. If you don't want hot food, the use the little known `C-Line` for ordering shakes and custards. https://www.shakeshack.com/locations/
   - The Breslin offers a Lamb Burger with triple-fried fries. Nice outside-the-box burger and a place I'd like to visit again. http://citycookin.com/the-breslin-lamb-burger-with-feta/
-  - bar
-  - foo
-  - bar
+  - item
+  - item
+  - item
   
 + BBQ
   - Hill Country Barbeque - 30 West 26th Street, New York, NY 10010 - is within walking distance of MSG/Penn Station, and is a slice of TX picked up and dropped right into midtown.
@@ -23,13 +23,13 @@ The original location is in Madison Square Park (Madison Ave and 25th Str). On t
     - It is a restraurant first and a barbecue restraurant second. They style is a normal sit-down restarurant with table-service down in an upscale look. Downstairs is also a live jazz club.
     - Pork ribs, brisket, mac & cheese, beans. All the food is great & good  ambiance. They have other entrees that are not just smoked meats. They have their own pastry chef. 
 + Korean
-  - foo
-  - bar
+  - item
+  - item
 
 + Food Trucks & Street Food
-  - foo
-  - bar
+  - item
+  - item
 
 ### Dessert
-  - foo
-  - bar
+  - item
+  - item
