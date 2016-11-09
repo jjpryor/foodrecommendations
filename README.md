@@ -37,6 +37,14 @@
   - Hell's Chicken - 641 10th Ave, New York, NY 10036 - Hell's Kitchen area place for Korean Fried Chicken
   - item
 
++ Mexican
+  - item
+  - item
+
++ Other
+  - item
+  - item
+
 + Food Trucks & Street Food
   - item
   - item
