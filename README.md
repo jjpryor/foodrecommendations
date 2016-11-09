@@ -22,8 +22,14 @@ The original location is in Madison Square Park (Madison Ave and 25th Str). On t
   - Blue Smoke - 116 East 27th Street, New York, NY 10016 - A bit of a far walking distance from MSG / Penn Station (about 1 mile).
     - Blue Smoke is part of Danny Meyer's Union Square Hospitality group's umbrella of restaraunts. It is a restraurant first and a barbecue restraurant second. Its style is a normal sit-down restarurant with table-service down in an upscale look. Downstairs is also a live jazz club.
     - Pork ribs, brisket, mac & cheese, beans. All the food is great & good  ambiance. They have other entrees that are not just smoked meats. They have their own pastry chef. 
+  - Daisy May's BBQ - 623 11th Ave, New York, NY 10036 - Cafeteria-style bbq joint that is west of Restaruant Row and closer to the west side piers. Pork ribs are good. The beef rib is usually great but sometimes they have an off-day and the beef rib is only just OK.
+  - Tourist trap BBQ that I've had and will not have again
+    - Virgil's - they were one of the first. I once had good smoked wings, and then 3 years later I had bad smoked wings and lackluster sandwich.
+    - Hog Pit - not good bbq. Review say "cheap drinks" and "great mozzerella sticks" and less about bbq
+    - Dallas BBQ
+    - Brother Jimmy's BBQ
 + Korean
-  - item
+  - Hanjan - 36 West 26th Street, New York, NY - next to Hill Country Barbeque. It is small-plates tapas-style Korean comfort food. Kinda pricy. But I always wanted to go here. Lunch-time and dinner-time only. They close between lunch and dinner.
   - item
 
 + Food Trucks & Street Food
