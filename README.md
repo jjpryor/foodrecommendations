@@ -3,6 +3,13 @@
   * [Breakfast](#breakfast)
   * [Lunch/Dinner](#lunchdinner)
   * [Dessert](#dessert)
+* [Lincoln, NE](#lincoln-ne)
+* [Memphis, TN](#memphis-tn)
+* [Other NC](#other-nc)
+* [Research Triangle Park area, NC](#research-triangle-park-area-nc)
+* [San Diego, CA](#san-diego-ca)
+* [San Francisco, CA](#san-francisco-ca)
+* [Portland, OR](#portland-or)  
 
 ## NYC - Manhattan (mostly midtown)
 
